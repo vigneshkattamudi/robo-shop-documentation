@@ -10,7 +10,7 @@ Install NodeJS, By default NodeJS 16 is available, We would like to enable 20 ve
 **You can list modules by using `dnf module list`**
 
 ```shell 
-dnf module disable nodejs -y 
+dnf module disable nodejs -y
 dnf module enable nodejs:20 -y
 ```
 
