@@ -133,4 +133,3 @@ This service needs a restart because it is dependent on schema, After loading sc
 ```shell 
 systemctl restart shipping
 ```
-
