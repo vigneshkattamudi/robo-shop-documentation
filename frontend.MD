@@ -8,9 +8,9 @@ This is a static content and to serve static content we need a web server. This 
 Developer has chosen Nginx as a web server and thus we will install Nginx Web Server. 
 
 
-**You can list modules by using** 
+**You can list modules by using**
 
-`dnf module list nginx` 
+`dnf module list nginx`
 
 Install Nginx 
 ```shell
